@@ -11,7 +11,9 @@ This is the main index page and contains an introduction to your content in this
 
 This repo uses the static site [just-the-docs](https://pmarsceill.github.io/just-the-docs/)
 
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
+
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-green }
 
