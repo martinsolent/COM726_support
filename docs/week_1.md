@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Single Page 1
-nav_order: 5
+title: Week 1
+nav_order: 1
 ---
 
 {: .no_toc }
 
-# COM726 Support
+# COM726 Support - Week 1
