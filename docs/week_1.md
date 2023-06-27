@@ -77,16 +77,16 @@ nav_order: 1
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1ced7805-2fa9-4389-9833-abbb0095998a&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-[Download Slides](slides/AM_part_1_2020_NEW.ppt){: .btn .btn-purple } 
+[Download Slides](slides/AM_part_1_2020_NEW.pptx){: .btn .btn-purple } 
 
 ### Part 2 - Plagiarism
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9641e5e3-78bc-47b7-a09a-abbb0098ec56&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-[Download Slides](slides/AM_part_2_2020_NEW.ppt){: .btn .btn-purple } 
+[Download Slides](slides/AM_part_2_2020_NEW.pptx){: .btn .btn-purple } 
 
 ### Part 3 - Turnitin for Students
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1fbe6d62-760d-48e9-85ea-abbb009bee14&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-[Download Slides](slides/AM_part_3_2020_NEW.ppt){: .btn .btn-purple } 
+[Download Slides](slides/AM_part_3_2020_NEW.pptx){: .btn .btn-purple } 
