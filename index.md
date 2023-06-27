@@ -7,7 +7,7 @@ permalink: /
 
 # COM726 Support Sessions - Introduction
 
-![university-student](img/university-student-2.jpg)
+![university-student](docs/img/university-student-2.jpg)
 
 All Masters students undertake an extended body of work commonly called a Dissertation and an accompanying verbal presentation (Viva).
 
@@ -24,8 +24,8 @@ The content of the Dissertation should reflect your passions and interests withi
 | :--: | :-----: | ------------------------------------------------------------ |
 |  1   | 27/6/23 | **Introduction to Support** : Assessments & Deadlines , Report Writing and Referencing |
 |  2   | 4/7/23  | **Research & Ethics**                                        |
-|  3   | 11/7/23 | **Literature Review & Frameworks **                          |
+|  3   | 11/7/23 | **Literature Review & Frameworks**                          |
 |  4   | 18/7/23 | **Project planning & Pilot Study**                           |
-|  5   | 25/7/23 | **Your Project:** *What could your project look like? **What’s your research question?* *What outcome would you like to achieve?* |
+|  5   | 25/7/23 | **Your Project:** *What could your project look like? What’s your research question? What outcome would you like to achieve?* |
 |  6   | 1/8/23  | **Final Support Recap:**  Academic writing and proofreading,  Milestones & Deadlines |
 
