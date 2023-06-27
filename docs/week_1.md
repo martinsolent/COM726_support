@@ -6,4 +6,4 @@ nav_order: 5
 
 {: .no_toc }
 
-# Single Page 1
+# COM726 Support
