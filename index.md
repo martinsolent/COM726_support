@@ -7,6 +7,8 @@ permalink: /
 
 # COM726 Support Sessions - Introduction
 
+![university-student](img/university-student-2.jpg)
+
 All Masters students undertake an extended body of work commonly called a Dissertation and an accompanying verbal presentation (Viva).
 
 The content of the Dissertation should reflect your passions and interests within your field of study, and must be drawn from relevant theory, supported by the practical aspects of your degree.
