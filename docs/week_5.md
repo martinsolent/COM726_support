@@ -8,10 +8,8 @@ nav_order: 5
 # COM726 Support - Week 5
 
 
+## Your Project Wh
 
-| Table |                                                              |
-| :--: | ------------------------------------------------------------ |
-|  1   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtddbbbbbbbbbbbbbbbbbbbbbb |
-|  2   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
-|  3   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
-
+*What could your project look like?*
+*What’s your research question?* 
+*What outcome would you like to achieve?*
