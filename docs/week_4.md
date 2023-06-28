@@ -7,11 +7,5 @@ nav_order: 4
 
 # COM726 Support - Week 4
 
-
-
-| Table |                                                              |
-| :--: | ------------------------------------------------------------ |
-|  1   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtddbbbbbbbbbbbbbbbbbbbbbb |
-|  2   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
-|  3   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
+## Project planning & Pilot Study
 
