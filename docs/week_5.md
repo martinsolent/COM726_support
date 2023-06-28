@@ -6,7 +6,7 @@ nav_order: 5
 {: .no_toc }
 
 # COM726 Support - Week 5
-![Path in the woods](docs/img/oliver-roos-PCNdauVPbjA-unsplash.jpg)
+![Path in the woods](img/oliver-roos-PCNdauVPbjA-unsplash.jpg)
 
 ## Your Project
 
