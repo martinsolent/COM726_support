@@ -63,6 +63,6 @@ Secondly, it must be made clear to participants that they are under no obligatio
 
 *If you are undertaking a User Experience (UX) it will already be the case that Informed Consent forms are already available. If this is not the case download one from the Portal* 
 
-SOLENT UNIVERSITY, 2022. University Ethics Policy. [viewed 28 June 2023) 
+**SOLENT UNIVERSITY, 2022.** University Ethics Policy. [viewed 28 June 2023) 
 [https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf](https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf)
 
