@@ -6,9 +6,9 @@ nav_order: 5
 {: .no_toc }
 
 # COM726 Support - Week 5
+![Path in the woods](docs/img/oliver-roos-PCNdauVPbjA-unsplash.jpg)
 
-
-## Your Project Wh
+## Your Project
 
 *What could your project look like?*
 *What’s your research question?* 
