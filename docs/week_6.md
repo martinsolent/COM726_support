@@ -7,11 +7,4 @@ nav_order: 6
 
 # COM726 Support - Week 6
 
-
-
-| Table |                                                              |
-| :--: | ------------------------------------------------------------ |
-|  1   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtddbbbbbbbbbbbbbbbbbbbbbb |
-|  2   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
-|  3   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
-
+## Final Support Recap
