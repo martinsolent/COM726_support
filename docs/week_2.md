@@ -22,7 +22,7 @@ All projects must be carried out within the framework of the [University’s Eth
 
 [2S: Solent University Research Ethics and Integrity Policy](https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf)
 
-[Ethics Projects App](https://ethics.app.solent.ac.uk/0
+[Ethics Projects App](https://ethics.app.solent.ac.uk)
 
 **Data collection and online survey tools**
 Staff and students wishing to complete data collection via online surveys must use the University's licence for Jisc Online Surveys. If they do not already have a user account, they need to email research.innovation@solent.ac.uk to request one.
