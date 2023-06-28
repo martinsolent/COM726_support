@@ -11,5 +11,7 @@ nav_order: 5
 ## Your Project
 
 *What could your project look like?*
+
 *What’s your research question?* 
+
 *What outcome would you like to achieve?*
