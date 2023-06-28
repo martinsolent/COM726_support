@@ -8,10 +8,4 @@ nav_order: 3
 # COM726 Support - Week 3
 
 
-
-| Table |                                                              |
-| :--: | ------------------------------------------------------------ |
-|  1   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtddbbbbbbbbbbbbbbbbbbbbbb |
-|  2   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
-|  3   | Dtdftdtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtdtdtddtdttdtdd      |
-
+## Literature Review & Frameworks
