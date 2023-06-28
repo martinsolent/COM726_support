@@ -6,7 +6,7 @@ nav_order: 2
 {: .no_toc }
 
 # COM726 Support - Week 2
-
+![Ethics Images](img/ethics2 (1).jpg)
 Ethics2 by Nick Youngson CC BY-SA 3.0 Alpha Stock Images
 
 # Research & Ethics
