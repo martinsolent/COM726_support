@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Policy
+title: Ethics Policy
 parent: Week 2
 nav_order: 7
 ---
