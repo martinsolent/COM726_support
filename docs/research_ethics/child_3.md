@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Week 2
-nav_order: 50
+title: Research
+parent: Week 2
+nav_order: 7
 ---
+
 {: .no_toc }
 
 # COM726 Support - Week 2
