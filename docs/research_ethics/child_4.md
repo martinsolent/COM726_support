@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Problem Statement
+title: Hypothesis
 parent: Week 2
 nav_order: 5
 ---
@@ -8,6 +8,9 @@ nav_order: 5
 {: .no_toc }
 
 # COM726 Support - Week 2
+
+### Hypothesis
+
 **Hypothesis** –  is a belief held without proof that will be tested
 
 In research, a hypothesis is a statement or a proposed explanation that suggests a relationship between variables or phenomena. It serves as a tentative explanation or prediction about the outcome of a study or the relationship between variables.
