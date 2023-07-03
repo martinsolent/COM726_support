@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Policy
 parent: Week 2
 nav_order: 7
 ---
@@ -8,10 +8,10 @@ nav_order: 7
 {: .no_toc }
 
 # COM726 Support - Week 2
-![Ethics Images](img/ethics2 (1).jpg)
+![Ethics Images](../img/ethics2 (1).jpg)
 Ethics2 by Nick Youngson CC BY-SA 3.0 Alpha Stock Images
 
-# Research & Ethics
+# Ethics Policy
 
 
 ### Ethical Clearance
