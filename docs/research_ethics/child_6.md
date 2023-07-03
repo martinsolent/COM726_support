@@ -51,9 +51,9 @@ All participants in your project should give their consent before any data is co
  A key part of gaining consent is that ensuring the participant is fully informed about the reason for the study. This means that there should be arrangements in place for explaining the evaluation. This may be in the form of an introductory information. It should:
 
 
-1.Explain why the evaluation is taking place 
-1.Outlines its key aims and objectives 
-1.Assure the respondent of confidentiality and anonymity 
+1. Explain why the evaluation is taking place 
+1. Outlines its key aims and objectives 
+1. Assure the respondent of confidentiality and anonymity 
 1. Explain how the information will be used  
 1. Explain how the respondents can receive information about the findings 
 1. Explain how the respondent can find out more information on the study 
