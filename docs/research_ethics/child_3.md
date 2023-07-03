@@ -8,7 +8,7 @@ nav_order: 4
 {: .no_toc }
 
 # COM726 Support - Week 2
-##Problem Statement 
+## Problem Statement 
 
 A **problem statement** is a concise and clear description of an issue or challenge that needs to be addressed or solved. It identifies the gap between the current state (the problem) and the desired state (the solution). The purpose of a problem statement is to define the problem in a way that allows for focused research, analysis, and problem-solving efforts.
 
