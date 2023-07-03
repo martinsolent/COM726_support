@@ -9,3 +9,6 @@ nav_order: 6
 
 # COM726 Support - Week 2
 
+### Ethics - "Do No Harm"
+
+
