@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Policy
+title: Research
 parent: Week 2
-nav_order: 3
+nav_order: 2
 ---
 
 {: .no_toc }
 
 # COM726 Support - Week 2
 
-## Ethics - Policy
+## What is research?
