@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ethics
-parent: COM726 Support - Week 2
+title: Policy
+parent: Week 2
 nav_order: 3
 ---
 
@@ -9,4 +9,4 @@ nav_order: 3
 
 # COM726 Support - Week 2
 
-## Ethics
+## Ethics - Policy
