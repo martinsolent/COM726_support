@@ -12,6 +12,10 @@ nav_order: 4
 
 A **problem statement** is a concise and clear description of an issue or challenge that needs to be addressed or solved. It identifies the gap between the current state (the problem) and the desired state (the solution). The purpose of a problem statement is to define the problem in a way that allows for focused research, analysis, and problem-solving efforts.
 
+It **identifies the gap** between the current (problem) state and desired (goal) state of a process or product. Focusing on the facts: who, what, where, when, and why. The first condition of solving a problem is **understanding the problem,** which can be done by way of a problemstatement **(Kush 2025)**
+
+**KUSH, M., 2015.** "The Statement Problem". Quality Progress. **48** (6), pp. 71.
+
 A well-written problem statement typically includes the following components:
 
 1. **Description of the current situation or problem:** Clearly and specifically define the issue or challenge that needs to be resolved.
