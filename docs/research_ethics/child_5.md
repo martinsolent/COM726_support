@@ -15,7 +15,5 @@ All staff and students have a responsibility to ensure, as far as possible, the 
 
 In addition, all research and innovation must comply with the UK legislation concerning, for example, Human Rights; General Data Protection Regulation and other Data Protection Laws; Freedom of Information; Obscenity, and Public Decency (this is not an exhaustive list). Where standing/specialist panels and the University Research Ethics and Integrity Committee wish to seek advice in this regard, they should, in the first instance, contact the Clerk to the Governors and the University’s Legal Officer. 
 
-In addition, all research and innovation must comply with the UK legislation concerning, for example, Human Rights; General Data Protection Regulation and other Data Protection Laws; Freedom of Information; Obscenity, and Public Decency (this is not an exhaustive list). Where standing/specialist panels and the University Research Ethics and Integrity Committee wish to seek advice in this regard, they should, in the first instance, contact the Clerk to the Governors and the University’s Legal Officer. 
-
 **SOLENT UNIVERSITY, 2022.** University Ethics Policy. [viewed 28 June 2023) 
 [https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf](https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf)
