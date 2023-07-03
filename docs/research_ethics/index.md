@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Teaching & Learning
-nav_order: 25
+title: COM726 Support - Week 2
+nav_order: 2
 has_children: true
 ---
 
 {: .no_toc }
 
-#  Teaching & Learning
+#  Research & Ethics
