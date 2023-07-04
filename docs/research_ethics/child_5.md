@@ -34,4 +34,3 @@ In addition, all research and innovation must comply with the UK legislation con
 
 **SOLENT UNIVERSITY, 2022.** University Ethics Policy. [viewed 28 June 2023) 
 [https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf](https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf)
->>>>>>> 11cc84b4c6a7cfd6175efcf42970253232e05d3b
