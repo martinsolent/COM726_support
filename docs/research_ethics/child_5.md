@@ -9,8 +9,7 @@ nav_order: 6
 
 # COM726 Support - Week 2
 
-<<<<<<< HEAD
-Unethical research refers to studies that violate ethical principles and fail to uphold the well-being, rights, and dignity of the participants or subjects involved. Here are some examples of unethical research:
+*Unethical research refers to studies that violate ethical principles and fail to uphold the well-being, rights, and dignity of the participants or subjects involved. Here are some examples of unethical research:*
 
 1. **Uninformed Consent:** Conducting research without obtaining informed consent from participants is unethical. Informed consent involves providing participants with all relevant information about the study, its purpose, procedures, risks, and benefits, and allowing them to voluntarily agree or decline participation. Failing to obtain informed consent or misleading participants about the nature of the research is a serious ethical violation.
 2. **Coercion or Undue Influence:** Coercing or exerting undue influence on individuals to participate in research against their will or better judgment is unethical. Researchers should ensure that participants have the freedom to make independent decisions about their involvement in a study, without any form of coercion or pressure.
@@ -22,7 +21,9 @@ Unethical research refers to studies that violate ethical principles and fail to
 8. **Lack of Research Integrity:** Engaging in fraudulent practices such as data fabrication, falsification, or selective reporting of results is highly unethical. Research integrity requires transparency, honesty, and adherence to sound scientific practices. Misrepresenting or manipulating data undermines the reliability and credibility of research.
 
 It is important for researchers to be aware of these examples of unethical research practices and adhere to ethical guidelines and standards to ensure the protection and well-being of research participants.
+
 =======
+
 ### Ethics - "Do No Harm"
 
 All staff and students have a responsibility to ensure, as far as possible, the physical, social, and psychological well-being of those involved in any teaching, research, and innovation they carry out. In doing so, they should aim to anticipate and guard against potentially harmful consequences wherever possible. 
