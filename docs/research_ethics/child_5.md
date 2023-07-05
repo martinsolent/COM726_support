@@ -9,6 +9,21 @@ nav_order: 6
 
 # COM726 Support - Week 2
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2c08e7c4-faae-4eff-b169-b0360177a800&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+### Ethics - "Do No Harm"
+
+All staff and students have a responsibility to ensure, as far as possible, the physical, social, and psychological well-being of those involved in any teaching, research, and innovation they carry out. In doing so, they should aim to anticipate and guard against potentially harmful consequences wherever possible. 
+
+In addition, all research and innovation must comply with the UK legislation concerning, for example, Human Rights; General Data Protection Regulation and other Data Protection Laws; Freedom of Information; Obscenity, and Public Decency (this is not an exhaustive list). Where standing/specialist panels and the University Research Ethics and Integrity Committee wish to seek advice in this regard, they should, in the first instance, contact the Clerk to the Governors and the University’s Legal Officer. 
+
+[Download Slides](slides/ethics_2023.pptx){: .btn .btn-purple }
+
+**SOLENT UNIVERSITY, 2022.** University Ethics Policy. [viewed 28 June 2023) 
+[https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf](https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf)
+
+=======
+
 *Unethical research refers to studies that violate ethical principles and fail to uphold the well-being, rights, and dignity of the participants or subjects involved. Here are some examples of unethical research:*
 
 1. **Uninformed Consent:** Conducting research without obtaining informed consent from participants is unethical. Informed consent involves providing participants with all relevant information about the study, its purpose, procedures, risks, and benefits, and allowing them to voluntarily agree or decline participation. Failing to obtain informed consent or misleading participants about the nature of the research is a serious ethical violation.
@@ -22,15 +37,3 @@ nav_order: 6
 
 It is important for researchers to be aware of these examples of unethical research practices and adhere to ethical guidelines and standards to ensure the protection and well-being of research participants.
 
-=======
-
-### Ethics - "Do No Harm"
-
-All staff and students have a responsibility to ensure, as far as possible, the physical, social, and psychological well-being of those involved in any teaching, research, and innovation they carry out. In doing so, they should aim to anticipate and guard against potentially harmful consequences wherever possible. 
-
-In addition, all research and innovation must comply with the UK legislation concerning, for example, Human Rights; General Data Protection Regulation and other Data Protection Laws; Freedom of Information; Obscenity, and Public Decency (this is not an exhaustive list). Where standing/specialist panels and the University Research Ethics and Integrity Committee wish to seek advice in this regard, they should, in the first instance, contact the Clerk to the Governors and the University’s Legal Officer. 
-
-[Download Slides](slides/ethics_2023.pptx){: .btn .btn-purple }
-
-**SOLENT UNIVERSITY, 2022.** University Ethics Policy. [viewed 28 June 2023) 
-[https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf](https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2s-solent-university-ethics-policy.pdf)
