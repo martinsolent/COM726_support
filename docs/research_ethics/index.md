@@ -7,7 +7,7 @@ has_children: true
 
 {: .no_toc }
 
-# 
+# COM726 Support - Week 2
 
 ## Research
 
