@@ -2,7 +2,7 @@
 layout: default
 title: Ethics
 parent: Week 2
-nav_order: 6
+nav_order: 10
 ---
 
 {: .no_toc }
