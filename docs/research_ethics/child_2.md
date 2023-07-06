@@ -10,7 +10,7 @@ nav_order: 3
 # COM726 Support - Week 2
 ## Research Question
 
-![](../img/markus-winkler-afW1hht0NSs-unsplash.jpg)
+![Research Question](../img/markus-winkler-afW1hht0NSs-unsplash.jpg)
 
 A research question is a clear, focused, and specific inquiry that guides a research study. It is a crucial component of the research process as it helps define the scope and purpose of the study. A well-formulated research question helps researchers identify what information they need to gather, analyse, and interpret in order to address their research objectives.
 
