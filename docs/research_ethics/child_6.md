@@ -9,6 +9,7 @@ nav_order: 7
 
 #  Analytical Research  
 
+![Analytical Research](../img/resource-database-TIUyoNGM0no-unsplash.jpg)
 Theoretical Examination, Critical Analysis, Conceptual Development, Literature Review & Qualitative Analysis
 
 **Analytical research,** also known as theoretical research or conceptual research, is a type of research that focuses on gaining a deeper understanding of a specific topic or problem by critically analysing existing theories, concepts, ideas, or models. 
