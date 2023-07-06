@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Research Introduction
 parent: Week 2
 nav_order: 2
 ---
