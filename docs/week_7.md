@@ -11,7 +11,6 @@ nav_order: 7
 
 [Download Slides](slides/copyright_2020.pptx){: .btn .btn-purple }
 
-
 You have five choices when it comes to using photographic images: 
 
 1. Create the image yourself
@@ -19,6 +18,10 @@ You have five choices when it comes to using photographic images:
 1. Purchased the rights to use an image (royalty free)
 1. The image is in the public domain or Creative Commons 
 1. The image is being presented as “fair use” as detailed in copyright law
+
+### Be careful out there - Fair use & copyright  - Using images in slides and reports
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0fadc575-ebf1-4882-b401-a9f000df1fc4&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ### Creative Commons
 
