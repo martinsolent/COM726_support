@@ -1,4 +1,4 @@
-10---
+---
 layout: default
 title: Ethics
 parent: Week 2
