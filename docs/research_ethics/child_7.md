@@ -11,11 +11,15 @@ nav_order: 8
 
 ### Quantitative analysis
 
+![Quantitative analysis](../img/immo-wegmann-1abCQ_3g_UY-unsplash_edit.jpg)
+
 **Quantitative analysis** focuses on statistical methods to analyse numerical data. Researchers use descriptive and inferential statistics to summarise and analyse data, test hypotheses, identify relationships, and make predictions. 
 
 The analysis involves numerical calculations, data visualisation, and statistical tests.
 
 ### Qualitative analysis
+
+![Qualitative analysis](../img/markus-winkler-afW1hht0NSs-unsplash.jpg)
 
 **Qualitative analysis** involves interpreting and making sense of textual or visual data.
 
