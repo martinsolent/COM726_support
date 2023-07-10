@@ -9,7 +9,7 @@ has_children: true
 
 # COM726 Support - Week 3
 
-[Books](img/books-bookstore-book-reading-159711 (1).jpg)
+![Books](../img/books-bookstore-book-reading-159711 (1).jpg)
 
 ## Literature surveys and research frameworks
 
