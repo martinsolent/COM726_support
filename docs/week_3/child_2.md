@@ -13,7 +13,7 @@ nav_order: 3
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2a1b988c-06c7-4a1b-8534-ac8900e3e5ec&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-[Download Slides](../slides/RESERACH_INTRO_2023_new.pptx){: .btn .btn-purple }
+[Download Slides](../slides/Annotated_Bibliography_2023.pptx){: .btn .btn-purple }
 
 ### Annotated Bibliography 101
 The purpose of the Annotated Bibliography is the discussion to support the context of the project in preparation of completing a Literature Survey/Review.
