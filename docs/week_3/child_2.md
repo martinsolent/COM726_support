@@ -26,8 +26,6 @@ The purpose of the Annotated Bibliography is the discussion to support the conte
 4. Collect/record useful documents, diagrams/images & snippets of information
 5. Write up an Annotated Bibliography for each of the most useful sources 
 
-Annotated Bibliography to undertake your project and help for inclusions within the final report –especially the literature review.
-
 An Annotated Bibliography simply means “Note about a book” but can relate to notes on any type of sources
 Annotated Bibliography is a “database” of information 
 It should be one of the first steps when undertaking research 
@@ -38,23 +36,27 @@ Each item is 150 words excluding the Harvard reference
 
 ### Structure of Annotated bibliography
 
+![Annotated bibliography](../img/Screen Shot 2017-11-05 at 10.50.03 (2).png)
+
 **Overview:**
 
-Descriptive/summary of what you have found
-The reference/citation to where you found it
-What value it has – the information that is critical to your project
-Summary:
+* Descriptive/summary of what you have found
+* The reference/citation to where you found it
+* What value it has – the information that is critical to your project
 
-What the source is about IN YOU OWN words (do not copy and paste)
-You may want how methods were used and main statistics from analysis
-REMEMBER to pay attention to the conclusions
-Evaluation:
+**Summary:**
 
-For what purpose was the source published
-Determined the credibility and reliability of the source
-Is it peer-reviewed?
-Has it been widely cited?
-Use
+* What the source is about IN YOU OWN words (do not copy and paste)
+* You may want how methods were used and main statistics from analysis
+* REMEMBER to pay attention to the conclusions
 
-How useful is the source to you?
-Focus on statistics, examples quotes and facts (if you do include any quotes make sure these are presented in “speech marks” to differentiate them from your own writing.
+**Evaluation:**
+
+* For what purpose was the source published
+* Determined the credibility and reliability of the source
+* Is it peer-reviewed?
+* Has it been widely cited?
+
+**Use**
+* How useful is the source to you?
+* Focus on statistics, examples quotes and facts (if you do include any quotes make sure these are presented in “speech marks” to differentiate them from your own writing.
