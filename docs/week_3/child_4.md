@@ -12,6 +12,7 @@ nav_order: 5
 
 ## The Review Protocol
 
+![Roboy](../img/rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg)
 
 #### Develop inclusion and exclusion criteria
 
@@ -45,6 +46,8 @@ While the library has subscriptions to a range of [databases](https://libguides
 
 #### Identify Keywords
 
+![Keys](../img/florian-berger-SzG0ncGBOeo-unsplash.jpg)
+
 You should identify the keywords that capture the essence of your research topic. The rationale behind this is that journal articles are indexed on databases using keywords.
 
 **Keywords**
@@ -64,7 +67,7 @@ https://www.sciencedirect.com/search?qs=%28Chatbot%20OR%20ChatBots%20OR%20Chat%2
 
 After conducting our search, we start applying our inclusion criteria. 
 
-![sciencedirect](SD_SCREEN_98.png)
+![sciencedirect](../img/SD_SCREEN_98.png)
 
 We have filtered by date and just to include research articles. 
 
@@ -72,19 +75,48 @@ After applying our criteria, you can see that we have 98 remaining articles. We 
 
 #### Exporting the search results to excel
 
-ScienceDirect does not allow export to Excel. 
+ScienceDirect does not allow direct export to Excel. 
 
-Select all our sources & click export & 'Save to Refworks’ & create a new folder
+So select all & click Export
 
-![](Picture3.png)
+![](../img/Picture3.png)
 
-![](Picture2.png)
+Save to RefWork (You will need to have signed up for RefWorks and be familiar with using it)
 
-![](Picture4.png)
+![](../img/Picture2.png)
 
+Create & name a new RefWorks folder
 
-![](Picture5.png)
+![](../img/Picture4.png)
+
+Click Import
+
+![](../img/Picture5.png)
 
 In RefWorks select your articles and click Share
 
-![](Picture5.png)
+![](../img/Screenshot 2023-07-11 171634.png)
+
+Export references -> XML or tsv
+
+![](../img/Screenshot 2023-07-12 at 22.36.21.png)
+
+**5. Review resulting literature**- the files have been opened up in Excel or a similar spreadsheet program you may need to reconfigure the table height and width.
+
+This will allow you to be able to read all the abstracts and other supporting information within the tags from the search in each of the columns to review the value of each of the sources in this example useful ones have been highlighted green and one that have been excluded have been highlighted in red
+
+![](../img/Picture6.png)
+
+Now we have the results in Excel, initially we can just read the abstract of each article and make a quick decision if we want to include and discard the literature. Red rows represent excluded literature and green columns represent included literature.
+
+You now should read the remaining papers aim good quality sources. [You should aim to critically appraise and summarise each source.](https://learn.solent.ac.uk/mod/book/view.php?id=386475&chapterid=62704)
+
+**Further Tips**
+
+Once you have identified the key articles that relate to your research idea, it is useful to study the reference lists of those key articles for further references that may be useful to you.
+
+If a key theme or author keeps arising in your literature results, then it is well worth conducting further research into this given author
+
+6.Summaries each study in a table
+The first step is to summaries each of the papers you have
+
