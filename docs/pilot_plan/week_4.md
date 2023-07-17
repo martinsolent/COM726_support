@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 4
+title: Pilot Study
 nav_order: 2
 ---
 {: .no_toc }
@@ -8,7 +8,7 @@ nav_order: 2
 # COM726 Support - Week 4
 ![Plane Cockpit](../img/jan-huber-0xNbk7D_s6U-unsplash.jpg)
 
-## Project planning & Pilot Study
+## Pilot Study
 
 A Pilot Study is an essential step in research to test and refine the study design before implementing the full-scale research project.
 
