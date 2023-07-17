@@ -10,9 +10,9 @@ nav_order: 4
 
 ## Project planning & Pilot Study
 
-A Pilot Study is an essential step in research to test and refine the study design before implementing the full-scale research project.
+This section offers guidance in undertaking a pilot study for your research project which will be part of the first assessment element in COM726 Progress report. 
+We will also look at how to manage your project from beginning to end and look at some of the tools and platforms to help organise our research on sources
 
-A Pilot Study allows researchers to identify potential issues, evaluate the feasibility of the study, and make necessary adjustments before investing significant time and resources into the main study. 
 
 
 
