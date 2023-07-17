@@ -6,7 +6,7 @@ nav_order: 5
 {: .no_toc }
 
 # COM726 Support - Week 5
-![Direction](img/direction.jpeg)
+![Direction](../img/direction.jpeg)
 
 ## Your Project
 
