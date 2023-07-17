@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pilot Study
+parent: Week 4
 nav_order: 2
 ---
 {: .no_toc }
