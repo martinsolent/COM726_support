@@ -20,7 +20,7 @@ nav_order: 2
 
 1. **Data Collection Methods:** Choose the data collection methods that will be used in the main study. 
 
-1. **Pre-Testing**: Before conducting the pilot study, pre-test the data collection tools. This will help identify any issues with the instruments and allow for necessary refinements.
+1. **Pre-Testing**: Before conducting the pilot study, pre-test the data collection tools. This will help identify any issues with the instruments and allow for necessary refinements.
 
 1. **Data Analysis:** Analyse the data collected during the pilot study. While the sample size is small, you can still gain valuable insights from the data that can inform adjustments for the main study.
 
