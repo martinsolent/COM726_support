@@ -5,7 +5,7 @@ nav_order: 8
 ---
 {: .no_toc }
 
-# Unified Modelling Language (UML) Types
+# Unified Modelling Language (UML)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WnMQ8HlmeXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -31,6 +31,7 @@ Overall, systems modelling provides a structured approach to studying complex sy
 
 [Download Slides](slides/UML_2023.pptx){: .btn .btn-purple } 
 
+# Unified Modelling Language (UML) Types
 
 Unified Modelling Language (UML) is a standardized visual modelling language used in software engineering to describe, specify, visualise, and document the structure and behaviour of a system. UML provides a variety of diagram types to represent different aspects of a system. Here are some commonly used UML diagram types:
 
@@ -123,8 +124,25 @@ Describes the internal structure and collaborations of a class or component. It 
 
 ![](../UML_2023/img/UML-Composite-Structure-Diagram%402x.png)
 
-These are some of the commonly used UML diagram types. Each diagram serves a specific purpose in modelling different aspects of a system.
-
 
 [![](https://mermaid.ink/img/pako:eNptkslOwzAQhl8l8glEF5pAl4gLoq3EoafeUCQ0sSeJVS_FC1UpfXec0IYu-OKZb_yPxzPeEaoZkpRQAdZOOZQGZKaisJ4VlyCip-9uN5p6urqmc26ra_qGuYEznEZ3XLkISrzES2e4KqMSFUNzGqwldgEymDe3FwEJDo-wKbspb_cLojZpjrB60UKbNmA3XB6Fwf3wQFdHf3-ar35Ym69b1275F76qOaJrMQU1A_evvmnBX0G51iLi9n3DBWuh8arVkg6RaCRwFibR6DLiKpSYkTSYDAvwwmUkU_VR8E4vt4qS1BmPHeLXLHTkMLtzOGPcaUPSAoQNUGgIfSbpjrjtup56ya0LGalWBS9r7o0IuHJubdN-vw73Su4qn_eoln3LWQXGVZ-TYX8YD8cQJzgcJfCYJIzmg8m4iB8GBRvdD2Ig-32HYHP_4vDF6m3_A4gUwp0?type=png)](https://mermaid.live/edit#pako:eNptkslOwzAQhl8l8glEF5pAl4gLoq3EoafeUCQ0sSeJVS_FC1UpfXec0IYu-OKZb_yPxzPeEaoZkpRQAdZOOZQGZKaisJ4VlyCip-9uN5p6urqmc26ra_qGuYEznEZ3XLkISrzES2e4KqMSFUNzGqwldgEymDe3FwEJDo-wKbspb_cLojZpjrB60UKbNmA3XB6Fwf3wQFdHf3-ar35Ym69b1275F76qOaJrMQU1A_evvmnBX0G51iLi9n3DBWuh8arVkg6RaCRwFibR6DLiKpSYkTSYDAvwwmUkU_VR8E4vt4qS1BmPHeLXLHTkMLtzOGPcaUPSAoQNUGgIfSbpjrjtup56ya0LGalWBS9r7o0IuHJubdN-vw73Su4qn_eoln3LWQXGVZ-TYX8YD8cQJzgcJfCYJIzmg8m4iB8GBRvdD2Ig-32HYHP_4vDF6m3_A4gUwp0)
+
+## Tools and Platforms
+
+There are a number of diagram software packages and platforms, ideally you need to pick one you are comfortable using or fits in with your organisation. Ideally picking one that can create diagrams by scripting which will help the process be less awkward and time consuming.
+
+You can also get Live Editor platforms such as Mermaid and use AI to help you scaffold the basic structure using prompts in ChatGTP plus plugins for editors such as VS Code.
+
+![](img/draw_io.png)
+
+[https://www.drawio.com/blog](https://www.drawio.com/blog)
+
+
+### Mermaid
+
+![](img/mermaid_pict.png)
+
+JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
+
+[mermaid.js.org/](mermaid.js.org/)
 
