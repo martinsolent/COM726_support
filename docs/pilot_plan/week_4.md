@@ -6,7 +6,7 @@ nav_order: 2
 {: .no_toc }
 
 # COM726 Support - Week 4
-![Clock](../img/pexels-photo-280264.jpg)
+![Plane Cockpit](../img/jan-huber-0xNbk7D_s6U-unsplash.jpg)
 
 ## Project planning & Pilot Study
 
