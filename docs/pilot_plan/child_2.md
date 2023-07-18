@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Week 4
-nav_order: 4
+title: Project Planning
+nav_order: 3
 ---
 {: .no_toc }
 
