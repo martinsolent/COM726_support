@@ -41,7 +41,7 @@ Represents the static structure of a system by showing classes, attributes, oper
 
 VISUAL PARADIGM, 2019. _UML Class Diagram Tutorial_ Available from: [https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 
-![](img/RackMultipart20230530-1-j4g4vj_html_7d4f98c9299256ef.png)
+![class](img/CLASS_UML.png)
 
 ## 2. Object Diagram: 
 
