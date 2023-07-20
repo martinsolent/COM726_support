@@ -11,11 +11,11 @@ nav_order: 3
 
 ## Project planning & Pilot Study
 
-**REPORT 1 (20%)** - 30/10/2023 Pilot Study/feasibility/progress
+1. **REPORT 1 (20%)** - 30/10/2023 Pilot Study/feasibility/progress
 
-**REPORT 2 (70%)** - 8/01/2024 Final Report
+1. **REPORT 2 (70%)** - 8/01/2024 Final Report
 
-**Presentation (10%)** - 15/01/2024 Viva & Q&A
+1. **Presentation (10%)** - 15/01/2024 Viva & Q&A
 
 
 600hrs of study - 85 days @7hrs - (16x work weeks)*
