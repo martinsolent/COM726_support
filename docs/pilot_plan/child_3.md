@@ -8,7 +8,7 @@ nav_order: 4
 
 # COM726 Support - Week 4
 
-[Type Writer](../img/Picture13.jpg)
+![Type Writer](../img/Picture13.jpg)
 
 The first assessment (AE1) will be a Project Pilot Study report (20%) - 3000 Words (+/- 10%) **30/10/2023 16:00** which will document the feasibility and possible approaches for your project. You will gain feedback on to move forward to the second assessment element (AE2) Report.
 
