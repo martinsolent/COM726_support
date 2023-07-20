@@ -17,7 +17,7 @@ nav_order: 5
  
 There are several tools to help you create reference, bibliography lists and add Citations in MS Word and Google Docs such should as [ProQuest RefWorks](https://refworks.proquest.com/), [mybib.com](https://www.mybib.com/), [mendeley.com](https://www.mendeley.com/), [Elicit](https://elicit.org) or similar plus Google Scholar for finding and collecting referenced sources.
 
-#### elicit.org
+## elicit.org
 
 *Elicit uses language models to help you automate research workflows, like parts of literature review.*
 
@@ -30,7 +30,7 @@ There are several tools to help you create reference, bibliography lists and add
 ![](../img/Picture14.png)
 [elicit.org](https://elicit.org/)
 
-#### mendeley.com
+## mendeley.com
 
 Mendeley is a free reference manager and academic social network that can help you to organise your research, collaborate with others online and discover the latest research:
 
@@ -45,7 +45,7 @@ Mendeley is a free reference manager and academic social network that can help y
 
 [mendeley.com](https://www.mendeley.com/)
 
-#### notion
+## notion
 
 Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It offers organisational tools including task management, project tracking, to-do lists, bookmarking, and more. Additional offline features are offered by desktop and mobile applications available for Windows, macOS, Android, and iOS. Users can create custom templates, embed videos and web content, and collaborate with others in real-time.
 
