@@ -1,3 +1,12 @@
+---
+layout: default
+title: GitHub Pages
+parent: GitHub
+nav_order: 3
+---
+
+{: .no_toc }
+
 # GitHub Pages
 
 This is a basic introduction to using GitHub in its basic form and creating GitHub Pages. Normally web developers would use the Commandline (CL) to push and pull changes to a remote server.
