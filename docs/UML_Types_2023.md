@@ -159,13 +159,13 @@ JavaScript based diagramming and charting tool that renders Markdown-inspired te
 
 **Try these prompts in ChatGTP:**
 
-Example Prompts
+Example Prompts:
 
 Prompt: Create Mermaid code for Restaurant management system flow diagram.
 
 Prompt: Create Mermaid code for Restaurant management system class diagram.
 
-Play around withe the flowing - more info came be found in [Mermaid Docs](https://mermaid.js.org/intro/)
+Play around with the flowing - more info can be found in [Mermaid Docs](https://mermaid.js.org/intro/)
 
 * online shopping system.
 * social media platform.
