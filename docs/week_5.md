@@ -15,3 +15,14 @@ nav_order: 5
 *What’s your research question?* 
 
 *What outcome would you like to achieve?*
+
+This week Dr. Kashif Talpur is offering guidance on the types of project topics you could pursue for Dissertation COM726.
+
+We will also be showing you some examples of previous projects undertaken on this module.
+
+## Project Proposal Outline - NOT GRADED
+
+**Deadline: Monday 4th Sept 2023**
+
+More details on this will be given in week 6 which final support session
+ 
