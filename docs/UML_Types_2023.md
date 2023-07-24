@@ -33,7 +33,7 @@ Overall, systems modelling provides a structured approach to studying complex sy
 
 # Unified Modelling Language (UML) Types
 
-Unified Modelling Language (UML) is a standardized visual modelling language used in software engineering to describe, specify, visualise, and document the structure and behaviour of a system. UML provides a variety of diagram types to represent different aspects of a system. Here are some commonly used UML diagram types:
+Unified Modelling Language (UML) is a standardised visual modelling language used in software engineering to describe, specify, visualise, and document the structure and behaviour of a system. UML provides a variety of diagram types to represent different aspects of a system. Here are some commonly used UML diagram types:
 
 ## 1. Class Diagram
 
@@ -80,7 +80,7 @@ Represents the workflow or flow of activities in a system. It describes the dyna
 
 Models the behaviour of an object or a system by representing the states, events, and transitions between states. It describes the possible sequences of states and their responses to events.
 
- LUCIDCHART, 2023c. State Machine Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-state-machine-diagram](https://www.lucidchart.com/pages/uml-state-machine-diagram)
+LUCIDCHART, 2023c. State Machine Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-state-machine-diagram](https://www.lucidchart.com/pages/uml-state-machine-diagram)
 
  ![State Machine Diagram](img/state-diagram-525x626@2x.jpeg)
 
@@ -129,9 +129,9 @@ Describes the internal structure and collaborations of a class or component. It 
 
 
 
-## FreeCodeCamp UML Diagrams Full Course (Unified Modeling Language)Course
+## FreeCodeCamp UML Diagrams Full Course (Unified Modelling Language) Course
 
-Learn about how to use UML diagrams to visualize the design of databases or systems. You will learn the most widely used Unified Modeling Language diagrams, their basic notation, and applications.
+Learn about how to use UML diagrams to visualise the design of databases or systems. You will learn the most widely used Unified Modelling Language diagrams, their basic notation, and applications.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WnMQ8HlmeXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
