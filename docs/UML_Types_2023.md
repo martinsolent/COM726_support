@@ -144,7 +144,7 @@ You can also get Live Editor platforms such as Mermaid and use AI to help you sc
 
 ![](img/draw_io.png)
 
-[https://www.drawio.com/blog](https://www.drawio.com/blog)
+[drawio.com/blog](https://www.drawio.com/blog)
 
 
 ### Mermaid
@@ -153,34 +153,32 @@ You can also get Live Editor platforms such as Mermaid and use AI to help you sc
 
 JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 
-[mermaid.js.org/](mermaid.js.org/)
+[mermaid.js.org/](https://mermaid.js.org/)
 
 ## Tasks
 
 **Try these prompts in ChatGTP:**
 
+Example Prompts
 
-Prompt: Design a UML class diagram for an online shopping system.
+Prompt: Create Mermaid code for Restaurant management system flow diagram.
 
-Prompt: Create a UML class diagram for a social media platform.
+Prompt: Create Mermaid code for Restaurant management system class diagram.
 
-Prompt: Develop a UML class diagram for a banking system.
+Play around withe the flowing - more info came be found in [Mermaid Docs](https://mermaid.js.org/intro/)
 
-Prompt: Design a UML class diagram for a car rental management system.
+* online shopping system.
+* social media platform.
+* banking system.
+* car rental management system.
+* hotel reservation system.
+* ticket booking system for an amusement park.
+* music streaming application.
+* e-learning platform.
+* customer relationship management (CRM) system.how
+* Restaurant management system flow diagram.
 
-Prompt: Create a UML class diagram for a hotel reservation system.
-
-Prompt: Develop a UML class diagram for a ticket booking system for an amusement park.
-
-Prompt: Design a UML class diagram for a music streaming application.
-
-Prompt: Create a UML class diagram for an e-learning platform.
-
-Prompt: Develop a UML class diagram for a customer relationship management (CRM) system.
-
-Prompt: Design a UML class diagram for a restaurant management system.
-
-Remember, these prompts serve as starting points to generate UML diagrams. You can further customize the prompts based on specific requirements, functionalities, or additional features to make them more tailored to your learning objectives - such as Design a UML flow diagram for a restaurant management system and now create Mermaid code for this which then can be copied and pasted into Mermaid or Draw.io
+Remember, these prompts serve as starting points to generate UML diagrams. You can further customise the prompts based on specific requirements, functionalities, or additional features to make them more tailored to your learning objectives - such as Design a UML flow diagram for a restaurant management system and now create Mermaid code for this which then can be copied and pasted into Mermaid or Draw.io
 
 
 
