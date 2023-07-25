@@ -25,4 +25,6 @@ We will also be showing you some examples of previous projects undertaken on thi
 **Deadline: Monday 4th Sept 2023**
 
 More details on this will be given in week 6 which final support session
+
+[Previous Dissertation Report Examples](https://ssu-my.sharepoint.com/:f:/r/personal/martin_reid_solent_ac_uk/Documents/COM726_Dis_examples_2023?csf=1&web=1&e=u10ig6)
  
