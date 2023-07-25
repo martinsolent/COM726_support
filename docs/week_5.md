@@ -18,6 +18,8 @@ nav_order: 5
 
 This week [Dr. Kashif Talpur](https://www.solent.ac.uk/staff/academic/kashif-talpur) who will be the module leader for COM726 (Sept 23 - Jan 24) is offering guidance on the types of project topics you could pursue for Dissertation COM726.
 
+[Kashif]()
+
 We will also be showing you some examples of previous projects undertaken on this module.
 
 ## Project Proposal Outline - NOT GRADED
