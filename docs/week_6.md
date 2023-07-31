@@ -14,3 +14,10 @@ nav_order: 6
 
 Academic writing and proofreading
 Milestones & Deadlines
+
+
+## Project Proposal Outline - NOT GRADED Monday 4th September 2023 
+
+**Allocation of a supervisor by end of September 2023**
+
+
