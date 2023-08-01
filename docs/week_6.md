@@ -7,6 +7,15 @@ nav_order: 6
 
 # COM726 Support - Week 6
 
+![]()
+
+## Final Support Recap
+
+Milestones & Deadlines
+**Allocation of a supervisor by end of September 2023**
+
+##  Academic writing and proofreading
+
 ![Paragraph](img/paragraph-3.png)
 
 **APPLETON, J., 2021.** Understanding Academic Paragraphs [viewed 28 June 2023]. Available from: [https://postgraduateresearcher.com/understanding-academic-paragraphs/](https://postgraduateresearcher.com/understanding-academic-paragraphs/)
@@ -16,17 +25,11 @@ nav_order: 6
 [DOWNLOAD WRITE PROPER SLIDES](slides/write_proper_23 (2).pptx){: .btn .btn-blue }
 
 
-## Final Support Recap
+## Project Proposal Outline
 
-Academic writing and proofreading
-Milestones & Deadlines
-
-
-## Project Proposal Outline - NOT GRADED Monday 4th September 2023 
-
-**Allocation of a supervisor by end of September 2023**
+### NOT GRADED Monday 4th September 2023 
 
 
-![](img/COM72.png)
+![Project Outline](img/COM72.png)
 
 [SUBMIT PROJECT OUTLINE](https://forms.office.com/e/tEEDRJBQ68){: .btn .btn-blue }
