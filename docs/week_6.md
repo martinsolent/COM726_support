@@ -7,7 +7,7 @@ nav_order: 6
 
 # COM726 Support - Week 6
 
-![]()
+![Game Over](img/sigmund-By-tZImt0Ms-unsplash.jpg)
 
 ## Final Support Recap
 
