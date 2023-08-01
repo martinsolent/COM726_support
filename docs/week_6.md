@@ -31,7 +31,7 @@ nav_order: 6
 
 **APPLETON, J., 2021.** Understanding Academic Paragraphs [viewed 28 June 2023]. Available from: [https://postgraduateresearcher.com/understanding-academic-paragraphs/](https://postgraduateresearcher.com/understanding-academic-paragraphs/)
 
-[DOWNLOAD...](){: .btn .btn-blue }
+[DOWNLOAD PROOF READING SLIDES](https://ssu-my.sharepoint.com/:f:/g/personal/martin_reid_solent_ac_uk/EtLzqWls-CdEjjId1u14AEkBKv-fqymziH9rICQs0xX0Cg?e=IgmRyW){: .btn .btn-blue }
 
 [DOWNLOAD WRITE PROPER SLIDES](slides/write_proper_23 (2).pptx){: .btn .btn-blue }
 
