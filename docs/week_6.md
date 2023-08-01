@@ -11,8 +11,19 @@ nav_order: 6
 
 ## Final Support Recap
 
-Milestones & Deadlines
-**Allocation of a supervisor by end of September 2023**
+### Milestones & Deadlines
+
+**Project Proposal Outline**  - 4/09/2023 - (NOT GRADED)
+
+**Allocation of a supervisor** end of September 2023
+
+**REPORT 1 (20%)** - 30/10/2023Pilot Study/feasibility/progress
+
+**REPORT 2 (70%)** - 8/01/2024 Final Report 
+
+**Presentation (10%)** - 15/01/2024 - Viva & Q&A
+
+
 
 ##  Academic writing and proofreading
 
