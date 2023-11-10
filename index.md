@@ -5,7 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
-# COM726 Support Sessions - Introduction
+# COM726 Support Sessions - Introduction (ARCHIVED)
+
+{: .warning }
+> This is an archive of Research Methods Support delivered to MAID students Summer 2023
+
+
+
 
 ![university-student](docs/img/university-student-2.jpg)
 
