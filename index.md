@@ -8,7 +8,7 @@ permalink: /
 # COM726 Support Sessions - Introduction (ARCHIVED)
 
 {: .warning }
-> This is an archive of Research Methods Support delivered to MAID students Summer 2023. Although dates and reference to assessment are no longer applicable, information on Research strategies are still current.
+> This is an archive of Research Methods Support delivered to MAIDS students in the Summer 2023. Although dates and reference to assessments are no longer applicable, information on Research strategies are still current.
 
 
 
