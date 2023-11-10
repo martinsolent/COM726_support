@@ -8,8 +8,7 @@ permalink: /
 # COM726 Support Sessions - Introduction (ARCHIVED)
 
 {: .warning }
-> This is an archive of Research Methods Support delivered to MAID students Summer 2023
-
+> This is an archive of Research Methods Support delivered to MAID students Summer 2023. Although dates and reference to assessment are no longer applicable, information on Research strategies are still current.
 
 
 
@@ -22,8 +21,7 @@ The content of the Dissertation should reflect your passions and interests withi
 
 **There will be 6 support sessions taking place every Tuesday 1300-1400 in HC005 Lecture Theatre - this will be on your timetables.**
 
-[COM726 MS Teams Support](https://teams.microsoft.com/l/team/19%3a5g1InaVpjxsPLNXCkvJaBzdLyVhHpqwjqe1hmzF7gbY1%40thread.tacv2/conversations?groupId=64f2105c-2346-4d53-b16d-f1f739d441b8&tenantId=d684e4cd-491a-4577-bf33-546478d72e3c){: .btn .btn-purple } 
-
+[COM726 MS Teams Support](#){: .btn .btn-purple } 
 
 
 | Week |  Date   | Topic                                                        |
